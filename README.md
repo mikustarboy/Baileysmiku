@@ -1,4 +1,7 @@
-# Baileys - Typescript/Javascript WhatsApp Web API
+
+ #BAILEYS NEW BY MIKU
+
+#TOLONG JANGAN DI SEBAR😁
 
 ### Important Note
 
